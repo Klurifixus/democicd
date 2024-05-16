@@ -8,7 +8,7 @@ class DemoCicdApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assetions.asser
+		Assertions.assertTrue(true);
 	}
 
 }
